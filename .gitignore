@@ -1,0 +1,15 @@
+# Compiled files
+snake
+*.o
+
+# Editor backups
+*~
+*.swp
+*.swo
+
+# macOS specific
+.DS_Store
+
+# Linux / temporary
+core
+*.tmp
